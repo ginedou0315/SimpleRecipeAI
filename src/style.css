@@ -3,8 +3,8 @@ body {
   font-family: "Merriweather", serif;
   color: #fdffab;
   background-image: url("https://images.pexels.com/photos/4033005/pexels-photo-4033005.jpeg");
-  background-size: 50%;
-  background-repeat: repeat;
+  background-size: 100%;
+  background-repeat: cover;
 }
 a {
   color: #dadb9f;
